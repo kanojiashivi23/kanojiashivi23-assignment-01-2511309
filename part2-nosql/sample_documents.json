@@ -1,1 +1,42 @@
+[
+  {
+    "_id": "P1001",
+    "name": "Samsung Galaxy S23",
+    "category": "Electronics",
+    "price": 75000,
+    "brand": "Samsung",
+    "specifications": {
+      "ram": "8GB",
+      "storage": "256GB",
+      "voltage": "220V"
+    },
+    "warranty_years": 2,
+    "features": ["5G", "AMOLED Display", "Fast Charging"]
+  },
 
+  {
+    "_id": "P2001",
+    "name": "Men Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 1200,
+    "brand": "H&M",
+    "sizes_available": ["S", "M", "L", "XL"],
+    "material": "Cotton",
+    "colors": ["Black", "White", "Blue"]
+  },
+
+  {
+    "_id": "P3001",
+    "name": "Organic Milk",
+    "category": "Groceries",
+    "price": 80,
+    "brand": "Amul",
+    "expiry_date": "2024-12-15",
+    "nutritional_info": {
+      "calories": 150,
+      "protein": "8g",
+      "fat": "8g"
+    },
+    "storage": "Keep refrigerated"
+  }
+]
